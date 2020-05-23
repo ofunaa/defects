@@ -1,4 +1,4 @@
-# sdefect
+# defects
 
 > My solid Nuxt.js project
 
